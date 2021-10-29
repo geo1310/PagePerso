@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="923px"
+   height="85px"
+   viewBox="0 0 923 85"
+   version="1.1"
+   id="svg1947"
+   sodipodi:docname="triangle1.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1951" />
+  <sodipodi:namedview
+     id="namedview1949"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.3856988"
+     inkscape:cx="461.5"
+     inkscape:cy="39.330336"
+     inkscape:window-width="1492"
+     inkscape:window-height="1091"
+     inkscape:window-x="3074"
+     inkscape:window-y="2974"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1947" />
+  <g
+     id="Page-1"
+     stroke="none"
+     stroke-width="1"
+     fill="none"
+     fill-rule="evenodd"
+     style="fill:#cccccc">
+    <g
+       id="Page-principale"
+       transform="translate(0.000000, 0.000000)"
+       fill="#F4F4F4"
+       style="fill:#cccccc">
+      <polygon
+         id="triangle1"
+         points="0 0 0 85 923 0"
+         style="fill:#cccccc" />
+    </g>
+  </g>
+  <path
+     style="fill:#e6e6e6;stroke:none;stroke-width:0.721658"
+     d="M 0,42.622014 V 0 L 459.87627,0.10812747 C 712.80822,0.16759753 918.94068,0.33317551 917.9484,0.4760785 916.95612,0.61898141 711.39197,19.562491 461.13917,42.572767 210.88638,65.583042 4.7539191,84.597367 3.0670446,84.826832 L 0,85.24403 Z"
+     id="path45" />
+</svg>
